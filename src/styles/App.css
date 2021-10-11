@@ -1,0 +1,13 @@
+.act {
+
+    opacity: 0;
+    color: #222;
+}
+
+tr:hover .act{
+    opacity: 1;
+}
+
+.act:hover {
+   color: #111; 
+}
